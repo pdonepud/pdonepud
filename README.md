@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Preetam Donepudi  
+CS Student @ UCSC | Software Engineer in Training | Python · Java · C  
 
-<!--
-**pdonepud/pdonepud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🎯 Focused on mastering software engineering fundamentals  
+- 💻 Exploring backend systems, automation, and machine learning   
+- 🧠 Interested in backend systems, automation, and machine learning  
+- 🌱 Building small projects to turn ideas into real products  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+`Python` · `Java` · `C` · `Git` · `VS Code` · `HTML` · `CSS` · `LaTeX` 
+
+---
+
+### 📚 Current Focus  
+- Strengthening problem-solving and OOP design  
+- Learning backend frameworks (FastAPI, Spring Boot)  
+- Working on personal projects to apply core concepts  
+
+---
+
+### 📫 Connect With Me  
+[LinkedIn](www.linkedin.com/in/preetam-donepudi-b05090286) 
+
+---
+> *“Code is learned by doing, not by watching.”*  
+
