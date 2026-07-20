@@ -1,11 +1,22 @@
-<h1 align="center">Welcome to my GitHub Profile 🚀</h1>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Welcome%20to%20my%20GitHub%20Profile%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner"/>
+</p>
 
-# Hi there, I'm Preetam 👋
+<h1 align="center">Hi there, I'm Preetam 👋</h1>
 
-I'm passionate about building backend systems and agentic AI pipelines that do real work.
+<p align="center">
+  I build backend systems and agentic AI pipelines that do real work.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetam-donepudi-b05090286/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](pdonepud@ucsc.edu)
+<p align="center">
+  <a href="https://www.linkedin.com/in/preetam-donepudi-b05090286/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pdonepud@ucsc.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
@@ -16,7 +27,7 @@ I'm passionate about building backend systems and agentic AI pipelines that do r
 - 🎓 CS @ **UC Santa Cruz** (B.S., Dec 2026) · A.S. from De Anza College
 - 📊 Reader/Grader for **CSE 101 (Data Structures & Algorithms)** at UCSC
 - ⚡ Languages I work in: **Python, C, Java, JavaScript**
-- 📫 [YOUR_UCSC_EMAIL](mailto:YOUR_UCSC_EMAIL) · [YOUR_GMAIL](mailto:YOUR_GMAIL)
+- 📫 Reach me at **pdonepud@ucsc.edu**
 - 😄 Fun fact: I automate everything I do more than twice
 
 ---
@@ -25,51 +36,100 @@ I'm passionate about building backend systems and agentic AI pipelines that do r
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css&theme=dark" alt="languages"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="48"/>
+</p>
 
 **Frameworks & Libraries**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,tauri&theme=dark" alt="frameworks"/>
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" height="48"/>
+  <img src="https://img.shields.io/badge/Alembic-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="Alembic" height="48"/>
+</p>
 
 **Databases & Cloud**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="databases"/>
+  <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" height="48"/>
+</p>
 
 **Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&theme=dark" alt="tools"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🛰️ **[LENS](https://github.com/pdonepud/LENS)** | Civic data platform analyzing policing patterns; ingests **10M+ records** from SF & Chicago with a spatial query API | Python, FastAPI, PostgreSQL/PostGIS, Alembic |
-| 🗺️ **[TerraLogic](https://github.com/pdonepud/TerraLogic)** | Agentic AI validation pipeline for **Overture Maps Foundation**, processing **53K+ business listings** with LLM-driven checks | Python, Claude API, Agentic AI |
-| 🤖 **[FRIDAY](https://github.com/pdonepud/FRIDAY)** | Personal AI desktop assistant with a Tauri frontend and FastAPI backend across multiple endpoints | Tauri, FastAPI, Python |
-| 🔍 **[DiffViewer](https://github.com/pdonepud/DiffViewer)** | Custom diff tool for comparing and visualizing file changes | [YOUR_STACK] |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ <a href="https://github.com/pdonepud/LENS">LENS</a></h3>
+      <p>Civic data platform analyzing policing patterns. Ingests <b>10M+ records</b> from SF &amp; Chicago behind a spatial query API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Alembic-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://github.com/pdonepud/TerraLogic">TerraLogic</a></h3>
+      <p>Agentic AI validation pipeline for <b>Overture Maps Foundation</b>, processing <b>53K+ business listings</b> with LLM-driven checks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Agentic%20AI-6E56CF?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/pdonepud/FRIDAY">FRIDAY</a></h3>
+      <p>Personal AI desktop assistant with a Tauri frontend and a FastAPI backend across multiple endpoints.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/pdonepud/DiffViewer">DiffViewer</a></h3>
+      <p>Custom diff tool for comparing and visualizing file changes across formats.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pdonepud&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdonepud&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pdonepud&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdonepud&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdonepud&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-> *"Code is learned by doing, not by watching."*
+<p align="center">
+  <i>"Code is learned by doing, not by watching."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=100&section=footer"/>
+</p>
